@@ -1,0 +1,27 @@
+body {
+	margin: 0;
+}
+.container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	min-height: 100vh;
+	background-color: #f0f8ff;
+}
+.kalam-img {
+	height: 300px;
+	width: 350px;
+	border: 1px solid;
+	border-radius: 10px;
+}
+ul {
+	list-style-type: none;
+	padding: 0;
+}
+li {
+	margin: 15px;
+	font-style: italic;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
